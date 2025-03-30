@@ -5,10 +5,10 @@ This is Shiva - I am a Data Scientist with Nearmap working on some cool projects
 
 - I’m currently taking the MIT data science course to improve my understanding of the fundamentals... and oh boy am I learning something new every day! While it's a lot of work, I am very happy to have started my 2025 with this awesome course. 
 - I’m looking to collaborate on any thing related to wildfires and other natural perils! if you have an idea or a project in mind, please reach out - maybe we can help each other!
-- How to reach me: sjabarnia@nearmap.com or jabarnia@gmail.com, happy to chat anytime!
+- How to reach me: sjabarnia@nearmap.com or www.shivajabarnia.com, happy to chat anytime!
 
 
 PS: 
-Check out this white paper by Madeleine Lopeman and I around our Hurricane score!
+Check out this white paper around our Hurricane score!
 https://betterview.com/hubfs/downloads/Betterview_WP-003_Hurricane-Risk.pdf?hsLang=en
 
